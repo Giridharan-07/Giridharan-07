@@ -1,4 +1,4 @@
-# 👨‍💻 Giridharan K — Developer Backend Developer
+# 👨‍💻 Giridharan K — Backend Developer
 
 <p align="center">
   <img src="https://img.shields.io/badge/Portfolio-Live-2454E8?style=for-the-badge" alt="Portfolio">
